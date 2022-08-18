@@ -1,0 +1,53 @@
+h1{
+    color: coral;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    margin-bottom: 60px;
+}
+#result{
+    margin-left: 20px;
+}
+
+#result img{
+    height: 400px;
+    border: 1px solid coral;
+    padding: 15px;
+    margin-left: 35%;
+}
+#result h2{
+    text-align: center;
+    color: coral;
+    font-size: 34px;
+}
+#result h3{
+    color: coral;
+    font-size: 24px;
+    line-height: 0.8cm;
+    margin-bottom: 5px;
+}
+#result h4{
+    font-size: 22px;
+    line-height: 0.8cm;
+}
+#result :nth-child(4){
+    position: absolute;
+    top: 108%;
+    left: 6.5%;
+}
+#result :nth-child(6){
+    position: absolute;
+    top: 113.5%;
+    left: 7.6%;
+}
+#result :nth-child(8){
+    position: absolute;
+    top: 119%;
+    left: 9.8%;
+}
+#result p{
+    line-height: 0.7cm;
+    font-size: 18px;
+    font-size: 20px;
+}

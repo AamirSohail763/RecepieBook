@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#navbar{
+    display: flex;
+    background-color: coral;
+    color: white;
+    justify-content: space-between;
+    padding: 20px;
+}
+#navbar a{
+    text-decoration: none;
+    color: white;
+}
+#options{
+    display: flex;
+    gap: 50px;
+    margin-right: 50px;
+}

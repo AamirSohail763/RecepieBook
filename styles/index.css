@@ -1,0 +1,38 @@
+h1{
+    color: coral;
+    text-align: center;
+    margin-top: 50px;
+}
+#query{
+    padding: 12px 6px;
+    width: 350px;
+    outline: none;
+    border-radius: 4px;
+    margin-left: 38%;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.card{
+    border: 1px solid coral;
+    width: 95%;
+    margin: auto;
+    margin-bottom: 25px;
+    padding: 10px;
+}
+.image{
+    height: 300px;
+}
+.card h2{
+    color: coral;
+    font-size: 30px;
+}
+.card h3{
+    line-height: 0.8cm;
+}
+.card h4{
+    line-height: 0.5cm;
+}
+.card p{
+    line-height: 0.7cm;
+    font-size: 18px;
+}
